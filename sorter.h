@@ -1,6 +1,8 @@
 #pragma once
 
 #include <sys/types.h>
+#include <unistd.h>
+
 #include <fstream>
 #include <sstream>
 #include <string>
